@@ -1,8 +1,9 @@
 # RSA-Encryption-Decryption
 Encrypts and Decrypts a message using RSA.
 
-Inputs: Message, p, q
-Outputs: Ciphertext, decrypted text
+Inputs: message, p, q
+
+Outputs: ciphertext, decrypted text
 
 RSA steps:
 1)  Given p and q,
